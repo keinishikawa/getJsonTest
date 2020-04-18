@@ -1,2 +1,0 @@
-# getJsonTest
-Created with CodeSandbox
